@@ -1,0 +1,6 @@
+# 码支付系统三网免挂免输入金额个人支付免签约支付聚合支付多通道当面付全开源
+
+云端开通价格<br>一个月开通价：130<br>一年开通价格：800<br>（云端作用:免挂免输入,不需要站长和商户挂全部免支持:全网三网（支付宝、微信、QQ、免挂免输入金额）<br>其余两种监控方式功能没这么强大（本地云监控和APP监控）<br>本系统已更新迭代10余个版本 无漏洞 防XSS防SQL注入等各种漏洞 非常稳定 安全防黑！系统支持高并发！<br>演示站:example.com<br>2024-08-13日更新：<br>增加代理IP拉订单<br>作用：使用代理IP拉订单降低了百分之90的风空率<br>等等很多东西就不一一说了<br>源码全开源，支持二次开发<br>云端协议的作用：不用挂机，不用输入金额，用户扫码即可支付，就像官方接口一样好用<br>微信免挂机，免输入金额，模拟的苹果Mac协议，实时生成收款码<br>支付宝免挂机，免输入金额，模拟的转账协议，实时生成收款码<br>支持多账户轮询收款<br>支持个人微信收款码进行收款<br>支持个人和企业支付宝账号进行收款<br>支持店员通知模式进行挂机监控回调<br>支持个人收款码手机端H5跳转唤醒APP支付<br>支付系统采用云端免挂机监控和本地云监控和APP监控三种模式，各种功能应有尽有<br>更多强大功能请联系客服<br>声明:<br>请勿将系统用于非法业务,合理学习<br>用于非法业务暂停一切售后服务包括更新<br>用来进行违反中国法律用户与本司和平台无关<br>购买及认同以上原则，源码有可复制性购买后不能退。<br>请勿用于商业途径及非法运营，一切法律责任其他责任与本人本店无关<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/YN9kJ" style="color: red;">https://mega-file.org/YN9kJ</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
